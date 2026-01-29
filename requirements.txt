@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+websockets
+g711
+pydantic
+python-multipart
